@@ -34,7 +34,7 @@ Welcome to my GitHub! 🎉 I'm a **coding enthusiast** who loves learning new th
 
 ## 🤝 **Let’s Collaborate!**
 
-I love working with other developers to **learn** and **build** amazing things. If you have a project in mind or want to solve some coding challenges together, hit me up! Let's create something awesome! 🔥
+I love working with other developers to **learn** and **build** amazing things. If you have a project in mind that could help me learn or want to solve some coding challenges together, hit me up! Let's create something awesome! 🔥
 
 ---
 
